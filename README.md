@@ -203,7 +203,7 @@ Sales-Analytics-Dashboard-PowerBI/
 
 **Ajay Gande**
 
-[GitHub](https://github.com/ajaygande) | [LinkedIn](https://linkedin.com/in/ajaygande) | [Email](mailto:ajaygande1@gmail.com)
+[GitHub](https://github.com/ajaygande) | [LinkedIn](https://www.linkedin.com/in/ajay-gande) | [Email](mailto:ajaygande1@gmail.com)
 
 ---
 
