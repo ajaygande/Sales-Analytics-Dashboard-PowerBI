@@ -143,7 +143,7 @@ For full DAX documentation see [DAX Measures](Documentation/DAX_Measures.md)
 
 ## How to Use
 
-1. Download `AdventureWorks_Dashboard.pbix`
+1. Download `AdventureWorks Sales Dashboard.pbix.`
 2. Open in Power BI Desktop
 3. Use slicers to filter by Fiscal Year, Category, and Region
 4. Navigate pages using buttons on top right
