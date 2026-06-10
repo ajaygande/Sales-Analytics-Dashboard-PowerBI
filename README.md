@@ -199,4 +199,13 @@ Sales-Analytics-Dashboard-PowerBI/
 
 ---
 
+## Author
 
+**Ajay Gande**
+
+[GitHub](https://github.com/ajaygande) | [LinkedIn](https://linkedin.com/in/ajaygande) | [Email](mailto:ajaygande1@gmail.com)
+
+---
+
+*AdventureWorks Sales Analytics — a business driven Power BI dashboard 
+showcasing data modeling, DAX measures, and actionable business insights.*
