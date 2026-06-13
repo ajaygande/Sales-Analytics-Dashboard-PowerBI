@@ -1,5 +1,7 @@
 # AdventureWorks Sales Analytics Dashboard
 
+![Sales Analytics Dashboard](Screenshots/cover.png)
+
 A business problem driven interactive Power BI dashboard built on the Microsoft AdventureWorks dataset covering FY2018 — FY2020, designed to help leadership identify revenue trends, product performance, and regional opportunities.
 
 ---
